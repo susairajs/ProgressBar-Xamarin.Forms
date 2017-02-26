@@ -1,0 +1,2 @@
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinProgressBar\XamarinProgressBar.UWP\XamarinProgressBar.UWP.csproj;x86
+c:\users\delpin susai raj\documents\visual studio 2017\Projects\XamarinProgressBar\XamarinProgressBar\XamarinProgressBar.csproj;neutral
